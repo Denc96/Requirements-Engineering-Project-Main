@@ -63,7 +63,7 @@
 ### - the system will have an authorized organizer to manage events and activities.
 ### - the system will have an authorized organizer to manage sign ups.
 ### - the system will have an availability slot for organizers to know which volunteer is available.
-### - the system will have organist volunteer information stored in one location.
+### - the system will have organised volunteer information stored in one location.
 #
 #
 ### - the system will have appropriate accessibility.
