@@ -16,8 +16,8 @@
 #
 ## 2. Assumptions
 ### - we assume that there is a manager for organizing activities.
-### - we assume that organizers are confused on who is available.
-### - we assume that skills and experience are known with each volunteer.
+### - we assume that organizers manage cancellations and changes of an event and activity.
+### - we assume that skills and experience are not known with each volunteer.
 ### - we assume an organizer is managing all volunteering sign ups.
 ### - We assume an organizer is managing cancellations and changes within the events and activities.
 ### - we assume there are multiple activities on at the one time.
@@ -42,6 +42,7 @@
 ### - Activity manager.
 ### - Director of the organisation.
 ### - Sign up manager.
+### - I.T admin
 #
 #
 #
@@ -54,14 +55,15 @@
 #
 #
 ## 6. Scope
-### - There is no organization from registration to matching volunteers to activities/events.
-### - There is no dedicated person to communicate when activities/ events are cancelled.
+### - The system will have all information for the volunteers including their experience and skills and availability stored in one area.
+### - 6.	The system will allow organisers to create events and activities.
+### - The system will update all volunteer information in what skills or experience they have done.
 #
 #
 #
 ## 7. Candidate Requirements
-### - the system will have an authorized organizer to manage events and activities.
-### - the system will have an authorized organizer to manage sign ups.
+### - the system will have volunteers receive event and activities reminders.
+### - the system will have an organisers that can accept or reject volunteers joining an event or activity
 ### - the system will have an availability slot for organizers to know which volunteer is available.
 ### - the system will have organised volunteer information stored in one location.
 #
